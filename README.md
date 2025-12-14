@@ -54,3 +54,12 @@ DBNorm addresses this problem by providing an automated and user-friendly databa
 - Hibernate / JPA
 
 ---
+
+## 🏗️ System Architecture
+
+DBNorm follows a modular client–server architecture.  
+The frontend, developed using React and Vite, allows users to input database schemas and functional dependencies.  
+The backend, implemented using Spring Boot, applies normalization algorithms and business logic on the received input.  
+The computed normal form and normalized schemas are then returned to the frontend for visualization, without using persistent storage.
+
+---
