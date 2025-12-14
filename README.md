@@ -100,7 +100,9 @@ Backend:
 ### Schema & Functional Dependency Input
 ![Schema & FD Input](screenshots/Input_Schema.png)
 
-### Normalization Output
+### Detection of Present Normal Form
 ![Detect Normal Form](screenshots/Detect_NF.png)
+
+### Normalized Schema to Target Normal Form
 ![Normalized Output](screenshots/Normalization_Result.png)
 
