@@ -114,9 +114,8 @@ Backend:
 **Subham Kumar Shaw**  
 B.Tech – Computer Science and Engineering 
 
-🔗 **GitHub:** [https://github.com/Subham-102](https://github.com/Subham-102)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/subham-shaw-18550b271/)  
-🌐 **Portfolio:** [https://sneha-javadev.github.io/Personal-Portfolio/](https://subham-102.github.io/Portfolio_website/)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/subham-shaw-18550b271/](https://www.linkedin.com/in/subham-shaw-18550b271/)  
+🌐 **Portfolio:** [Subham Portfolio](https://subham-102.github.io/Portfolio_website/)
 
 > This project was developed as a part of the B.Tech final year major project, focusing on practical implementation of database normalization concepts using a full-stack approach.
 
