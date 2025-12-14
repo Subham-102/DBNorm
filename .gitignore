@@ -1,0 +1,16 @@
+# Node / React
+node_modules/
+build/
+.env
+
+# Java / Spring Boot
+target/
+*.log
+.idea/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
