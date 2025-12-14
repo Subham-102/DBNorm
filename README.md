@@ -63,3 +63,12 @@ The backend, implemented using Spring Boot, applies normalization algorithms and
 The computed normal form and normalized schemas are then returned to the frontend for visualization, without using persistent storage.
 
 ---
+
+## ✨ Key Features
+
+- Accepts user-defined relational schemas and functional dependencies  
+- Automatically determines the current normal form of a schema  
+- Performs normalization up to 3NF, BCNF, 4NF, and 5NF  
+- Applies normalization logic dynamically without persistent storage  
+- Displays normalized schemas and results in real time  
+- Simple and user-friendly web interface
