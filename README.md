@@ -72,3 +72,25 @@ The computed normal form and normalized schemas are then returned to the fronten
 - Applies normalization logic dynamically without persistent storage  
 - Displays normalized schemas and results in real time  
 - Simple and user-friendly web interface
+
+---
+
+## 🚀 How to Run the Project (Local Setup)
+
+### Prerequisites
+- Node.js and npm
+- Java JDK 8 or above
+- Maven
+
+### Steps to Run
+
+Frontend:
+- cd frontend
+- npm install
+- npm start
+
+Backend:
+- cd backend
+- mvn clean install
+- mvn spring-boot:run
+
