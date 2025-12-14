@@ -26,3 +26,17 @@ Database normalization is a critical process in relational database design, but 
 Students and developers often face difficulties in identifying functional dependencies and determining the correct normal form.  
 There is a lack of simple, interactive tools that can automatically analyze schemas and guide users through the normalization process.  
 DBNorm addresses this problem by providing an automated and user-friendly database normalization system.
+
+---
+
+## 🎯 Project Objectives
+
+- To analyze relational database schemas provided by the user  
+- To identify functional and multivalued dependencies  
+- To determine the highest normal form of a given schema  
+- To normalize schemas up to 3NF, BCNF, 4NF, and 5NF  
+- To provide a simple and interactive web-based interface
+
+---
+
+
