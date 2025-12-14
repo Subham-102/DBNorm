@@ -94,3 +94,13 @@ Backend:
 - mvn clean install
 - mvn spring-boot:run
 
+---
+## 📸 Screenshots
+
+### Schema & Functional Dependency Input
+![Schema & FD Input](screenshots/Input_Schema.png)
+
+### Normalization Output
+![Detect Normal Form](screenshots/Detect_NF.png)
+![Normalized Output](screenshots/Normalization_Result.png)
+
