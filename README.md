@@ -39,4 +39,18 @@ DBNorm addresses this problem by providing an automated and user-friendly databa
 
 ---
 
+## 💻 Technology Stack
 
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- Spring Boot
+- Java
+- RESTful APIs
+- Hibernate / JPA
+
+---
