@@ -11,6 +11,9 @@ B.Tech Final Year Major Project
 ---
 
 ## 📂 Repository Structure
-```DBNorm
-├── frontend # React application
-└── backend # Spring Boot application
+
+```
+DBNorm
+├── frontend   # React application
+└── backend    # Spring Boot application
+```
